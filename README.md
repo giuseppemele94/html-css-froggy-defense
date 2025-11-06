@@ -1,1 +1,1 @@
-![Screenshot]()
+![Screenshot](./screenshot/first_exercise.jpg)
